@@ -12,7 +12,7 @@ public class Fungsi {
     }
     public static int tambah(int a, int b) {
         int hasilTambah = a+b;
-        System.out.println("Hasil tambah "+a+" dan "+b+" adalah " +hasilTambah);
+        System.out.println("Hasil tambahh "+a+" dan "+b+" adalah " +hasilTambah);
         return hasilTambah;
     }
 }
